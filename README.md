@@ -23,5 +23,6 @@ Je manie différents types de logiciels tel que :
 
 Voici quelques liens de clips vidéos que j'ai monté moi-meme à partir de certains logiciels.
 
-* <a href="https://www.youtube.com/results?search_query=Leik">Premier lien</a>
+* <a href="https://www.youtube.com/watch?v=jPSvniPnHF4>Premier lien</a>
+
 * <a href="https://www.youtube.com/watch?v=jzfmSYiJ7CM>Deuxième lien</a>
